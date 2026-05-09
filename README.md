@@ -1,7 +1,8 @@
 
-Hi, I am Laxmi
+# Hi there!
 
-🔭 I am Software engineer building AI agents to automate ERP processes\
+I am Laxmi\
+🔭 I am Software engineer Building AI pipelines & agents to automate document processing and business workflows.\
 🎨 Artist in my spare time\
 🌱 Currently exploring LangChain & FastAPI
 
