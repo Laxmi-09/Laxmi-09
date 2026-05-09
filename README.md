@@ -1,12 +1,7 @@
-<div align="center">
 
-## Laxmi Ghorpade
+Hi, I am Laxmi
 
-</div>
-
----
-
-🔭 Software engineer building AI agents to automate ERP processes\
+🔭 I am Software engineer building AI agents to automate ERP processes\
 🎨 Artist in my spare time\
 🌱 Currently exploring LangChain & FastAPI
 
