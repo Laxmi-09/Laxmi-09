@@ -1,13 +1,11 @@
 <div align="center">
 
 ## Laxmi Ghorpade
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laxmi-g-94aab922a/)
+
 </div>
 
 ---
 
-### About
-Hi, I'm Laxmi\
 🔭 Software engineer building AI agents to automate ERP processes\
 🎨 Artist in my spare time\
 🌱 Currently exploring LangChain & FastAPI
@@ -15,29 +13,18 @@ Hi, I'm Laxmi\
 
 ---
 ## Tech Stack
-<table>
-  <tr>
-    <th>Languages</th>
-    <th>Frameworks & Tools</th>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/><br>
-      <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white"/><br>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/><br>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/><br>
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white"/><br>
-      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white"/><br>
-      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white"/>
-    </td>
-  </tr>
-</table>
+**Languages**  
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
 
-
+**Frameworks & Tools**  
+<img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white"/>
 
 
 ---
@@ -53,6 +40,10 @@ Hi, I'm Laxmi\
 
 ---
 
-<p align="center">
-  <i>Open to interesting problems. <a href="mailto:[laxmighorpade@gmail.com]">Let's talk.</a></i>
+<p align="left">
+  <i>Let's connect</i>
+  <br>
+  <a href="https://www.linkedin.com/in/laxmi-g-94aab922a/">
+ <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="80" />
+  </a>
 </p>
