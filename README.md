@@ -1,18 +1,13 @@
 <div align="center">
 
-# Laxmi Ghorpade
-
+## Laxmi Ghorpade
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laxmi-g-94aab922a/)
-
-
 </div>
 
 ---
 
-## About
-
-I'm Laxmi, 
-
+### About
+Hi, I'm Laxmi\
 🔭 Software engineer building AI agents to automate ERP processes\
 🎨 Artist in my spare time\
 🌱 Currently exploring LangChain & FastAPI
@@ -20,9 +15,6 @@ I'm Laxmi,
 
 ---
 ## Tech Stack
-
-## Tech Stack
-
 <table>
   <tr>
     <th>Languages</th>
@@ -46,13 +38,7 @@ I'm Laxmi,
 </table>
 
 
----
 
-## Featured projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [**[Project 1]**](https://github.com/Laxmi-09/pdf-qa-fastapi) | [Chat with your PDFs locally] | LangChain, FastAPI,Chromadb |
 
 ---
 
