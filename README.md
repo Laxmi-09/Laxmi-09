@@ -1,7 +1,7 @@
 
 # Hi there!
 
-I am Laxmi\
+I'm Laxmi,\
 🔭 I am Software engineer Building AI pipelines & agents to automate document processing and business workflows.\
 🎨 Artist in my spare time\
 🌱 Currently exploring LangChain & FastAPI
